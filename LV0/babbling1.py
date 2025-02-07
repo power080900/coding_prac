@@ -15,5 +15,4 @@ def solution(babbling):
             answer += 1
     return answer
 
-if solution(["aya", "yee", 'u', 'maa','wyeoo']) == 1:
-    print('pass')
+print(solution(["aya", "yee", 'u', 'maa','wyeoo'])) # 1
